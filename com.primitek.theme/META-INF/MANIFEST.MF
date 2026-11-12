@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Primitek Theme
+Bundle-SymbolicName: com.primitek.theme
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: PRIMITEK
+Eclipse-BundleShape: dir
+Fragment-Host: org.adempiere.ui.zk;bundle-version="11.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-17

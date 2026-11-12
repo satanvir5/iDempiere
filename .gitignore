@@ -40,3 +40,5 @@ out/
 */.maven.run/**
 **/.idea/*
 partial-runtime/
+config.bat
+node_modules
